@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "146237531151",
+    "firebase_url": "https://vending-machine-c9885-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "vending-machine-c9885",
+    "storage_bucket": "vending-machine-c9885.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146237531151:android:af105f5e617afe77d36f7a",
+        "android_client_info": {
+          "package_name": "com.example.veding_machine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCHLLeGePvbFwGWr6gRxUJzoiDWlXlOLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
